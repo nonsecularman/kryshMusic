@@ -276,4 +276,4 @@ class Call(PyTgCalls):
                 return
             await self.change_stream(client, update.chat_id)
 
-Miku = Call()
+Krysh = Call()

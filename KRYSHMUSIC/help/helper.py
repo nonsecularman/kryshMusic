@@ -45,7 +45,7 @@ class Helper(object):
 
 ❍ /reel : ᴅᴏᴡηʟᴏᴧᴅ ɪηѕᴛᴧɢʀᴧϻ ʀєєʟ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
     
 
@@ -60,7 +60,7 @@ class Helper(object):
 **» єx :-** `@Krysh_music_bot @nonsecularman I love You 😘`
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -75,7 +75,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ᴀɴʏ ɢʀσᴜᴘ ɪηғᴏ.
 ❍ /gcstats : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛs.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
     
 
@@ -103,7 +103,7 @@ class Helper(object):
 ❍ /report : ʀᴇᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴs
 ❍ /cancel : ꜱᴛσᴘ ᴧʟʟ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -121,7 +121,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ϻєssᴧɢє ǫυσᴛє.
 ❍ /q r : ᴄʀєᴧᴛє ϻєssᴧɢє ǫυσᴛє ᴡɪᴛʜ ʀєᴘʟʏ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ᴏʀ ɴᴇᴡ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -190,7 +190,7 @@ class Helper(object):
 ❍ /unbanall : ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs.
 ❍ /unpinall : ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ.**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 
 **❍ /sg : ηᴧϻє & υsєʀηᴧϻє ʜɪsᴛσʀʏ.**
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -214,7 +214,7 @@ class Helper(object):
 ❍ /allrepo : ᴧʟʟ ʀєᴘᴏ ʙʏ ɢɪᴛ ᴜsєʀηᴧϻє.
 ❍ /dlrepo : ᴅσᴡηʟσᴧᴅ ᴢɪᴘ ʙʏ ʀєᴘᴏ ᴜʀʟ.**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -235,7 +235,7 @@ class Helper(object):
 ❍ /bug :- ʀᴇᴘʟʏ ᴛᴏ ᴍᴇssᴀɢᴇ ғᴏʀ ʙᴜɢ ʀᴇᴘᴏʀᴛ.
 ❍ /repo :- ɢᴇᴛ ᴛᴇᴀᴍ Krysh ʀᴇᴘᴏs.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ꜱᴇᴛ ᴛʜᴇ ᴀɴᴛɪғʟᴏᴏᴅ ᴀᴄᴛɪᴏɴ ᴛᴏ ᴍᴜᴛᴇ :
 -> /floodmode mute
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
     HELP_12 = '''```
@@ -283,7 +283,7 @@ class Helper(object):
 ```
 ⋟ ᴏɴʟʏ ᴀᴅᴍɪɴ ᴄᴀɴ ᴀᴘᴘʀᴏᴠᴇ ᴀɴᴅ ᴅɪsᴍɪss ᴀɴᴅ ᴍᴇss ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ ɪɴ 10 ᴍɪɴᴜᴛᴇs.```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
     
@@ -295,7 +295,7 @@ class Helper(object):
 ❍ /spurge : ᴄʟᴇᴀɴ ɢʀᴏᴜᴘ ᴍsɢ sɪʟᴇɴᴛʟʏ.
 ❍ /del : ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴍsɢ ғᴏʀ ᴅᴇʟᴇᴛᴇ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
     
@@ -312,7 +312,7 @@ class Helper(object):
 ❖ ɴᴏᴛᴇ : ɪɴ ᴄᴀꜱᴇ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴇɴᴅꜱ, ᴛʜᴇ ʙᴏᴛ ᴍᴜꜱᴛ ʜᴀᴠᴇ ᴛʜᴇ ɴᴇᴡ ᴀᴅᴍɪɴ ʀɪɢʜᴛ.
 ```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)**
 '''
 
     
@@ -337,7 +337,7 @@ class Helper(object):
 '''
     HELP_ABOUT = '''
 **─────────────────────
- ᴡєʟᴄσϻє ᴛσ ˹[˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)˼ sᴛᴧᴛυs
+ ᴡєʟᴄσϻє ᴛσ ˹[˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)˼ sᴛᴧᴛυs
 ──────────────────────
    ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ──────────────────────
@@ -350,11 +350,11 @@ class Helper(object):
 ╭⎋ [ᴋʀɪᴛɪ ꭙ ᴄʜᴧᴛ](https://t.me/Imkritichatbot) : ᴧʟɪᴠє 
 ╰⊚ υsᴧɢє : 24 ʜʀs | ᴧssɪsᴛᴧηᴛs : 01
 ──────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/kriti_bot_update)
+⊚ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/NexaCoders)
 ──────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση  : `01.09.2025`
 ──────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)
 ──────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -370,12 +370,12 @@ class Helper(object):
 ● ηᴏ ʟᴀɢ ɪssᴜєs ηᴏ ᴧᴅs ηᴏ ʙᴜɢs.
 ● sᴜᴘᴘᴏʀᴛ ᴧʟʟ ᴛɪϻє sᴛᴧʏ ᴡɪᴛʜ ᴜs.
 ──────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/kriti_bot_update)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ » [˹ᴋɪʀᴛɪ ʙᴏᴛѕ˼](https://t.me/NexaCoders)
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ » [˹ᴋɪʀᴛɪ ᴜᴘᴅᴧᴛєs](https://t.me/KRYSH_SUPPORT_GROUP)
 ❖ ɢɪᴛ ʜᴜʙ ʟɪηᴋ » [тєᴧϻ-ᴋɪʀᴛɪ](github.com/devilcode-53/kryshMusic)
 ──────────────────────
-➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/kriti_bot_update)
-➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/kriti_bot_update)
+➤ ʙσᴛ sᴛᴧᴛυs & ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/NexaCoders)
+➤ ᴘᴧɪᴅ ᴘʀσϻσᴛɪση :- [ᴄσηᴛᴧᴄᴛ ʜєʀє](https://t.me/NexaCoders)
 ──────────────────────**
 
 '''

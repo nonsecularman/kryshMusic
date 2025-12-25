@@ -76,7 +76,10 @@ emojis = ["🥰", "🔥", "💖", "😁", "😎", "🌚", "❤️‍🔥", "♥�
 async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
     
-    await message.react(random.choice(emojis))
+    try:
+        await message.react(random.choice(emojis))
+    except:
+        pass  # Ignore if reaction fails
 
     sticker = await message.reply_sticker(random.choice(KRITI_STKR))
     await asyncio.sleep(1)

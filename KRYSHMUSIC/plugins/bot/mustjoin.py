@@ -13,7 +13,7 @@ from KRYSHMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "kriti_bot_update"
+MUST_JOIN = "NexaCoders"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -35,7 +35,7 @@ async def must_join_channel(app: Client, msg: Message):
                         [
                             [
                                 InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/KRYSH_SUPPORT_GROUP"),
-                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/kriti_bot_update"),
+                                InlineKeyboardButton("• ᴊᴏɪɴ •", url="https://t.me/NexaCoders"),
                             ]
                         ]
                     )

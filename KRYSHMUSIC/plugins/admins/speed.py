@@ -10,7 +10,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.misc import SUDOERS, db
 from KRYSHMUSIC.utils import AdminRightsCheck
 from KRYSHMUSIC.utils.database import is_active_chat, is_nonadmin_chat

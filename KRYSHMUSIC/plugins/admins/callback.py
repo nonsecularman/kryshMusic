@@ -12,7 +12,7 @@ from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from KRYSHMUSIC import YouTube, app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.misc import SUDOERS, db
 from KRYSHMUSIC.utils.database import (
     get_active_chats,

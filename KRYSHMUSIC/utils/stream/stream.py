@@ -13,7 +13,7 @@ from pyrogram.types import InlineKeyboardMarkup
 
 import config
 from KRYSHMUSIC import Carbon, YouTube, app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.misc import db
 from KRYSHMUSIC.utils.database import add_active_video_chat, is_active_chat
 from KRYSHMUSIC.utils.exceptions import AssistantErr

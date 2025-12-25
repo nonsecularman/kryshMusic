@@ -13,7 +13,7 @@ from pyrogram.enums import ChatType
 
 import config
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku, autoend
+from KRYSHMUSIC.core.call import Krysh, autoend
 from KRYSHMUSIC.utils.database import get_client, is_active_chat, is_autoend
 
 

@@ -12,7 +12,7 @@ from pyrogram.enums import ChatMembersFilter
 from pyrogram.types import CallbackQuery, Message
 
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.misc import db
 from KRYSHMUSIC.utils.database import (
     get_assistant,

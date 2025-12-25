@@ -10,7 +10,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 
 welcome = 20
 close = 30

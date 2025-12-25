@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 
 import config
 from KRYSHMUSIC import YouTube, app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.misc import db
 from KRYSHMUSIC.utils.database import get_loop
 from KRYSHMUSIC.utils.decorators import AdminRightsCheck

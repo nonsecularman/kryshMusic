@@ -10,7 +10,7 @@ from datetime import datetime
 from pyrogram import filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.utils import bot_sys_stats
 from KRYSHMUSIC.utils.decorators.language import language
 from KRYSHMUSIC.utils.inline import supp_markup

@@ -10,7 +10,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from KRYSHMUSIC import app
-from KRYSHMUSIC.core.call import Miku
+from KRYSHMUSIC.core.call import Krysh
 from KRYSHMUSIC.utils.database import set_loop
 from KRYSHMUSIC.utils.decorators import AdminRightsCheck
 from KRYSHMUSIC.utils.inline import close_markup

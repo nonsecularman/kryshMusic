@@ -10,7 +10,7 @@ from pyrogram import filters
 from pyrogram.types import Message, CallbackQuery
 
 from KRYSHMUSIC import YouTube, app
-from KRYSHMUSIC.core.call import Miku as Anony
+from KRYSHMUSIC.core.call import Krysh as Anony
 from KRYSHMUSIC.misc import db, SUDOERS
 from KRYSHMUSIC.utils import AdminRightsCheck, seconds_to_min
 from KRYSHMUSIC.utils.inline import close_markup

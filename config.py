@@ -25,9 +25,10 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 OWNER_ID = int(getenv("OWNER_ID", 8370332085))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "lololo")
 
-API_URL = getenv("API_URL", 'https://pytdbotapi.thequickearn.xyz') #youtube song url
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", "NxGBNexGenBotsc75140")
+# YouTube API (OPTIONAL - leave empty to use free yt-dlp streaming)
+# Only set these if you have paid API access
+YTPROXY = getenv("YTPROXY", "")
+YT_API_KEY = getenv("YT_API_KEY", "")
 
 
 

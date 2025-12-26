@@ -19,8 +19,10 @@ from KRYSHMUSIC import LOGGER
 from KRYSHMUSIC.utils.database import is_on_off
 from KRYSHMUSIC.utils.formatters import time_to_seconds
 
-YTPROXY = "https://tgapi.xbitcode.com"
-YT_API_KEY = "xbit_O1PlbyuGjX0_UQ8FtUlTKETw9HLkQVuN"
+from os import getenv
+
+YTPROXY = getenv("YTPROXY", "")
+YT_API_KEY = getenv("YT_API_KEY", "")
 
 logger = LOGGER(__name__)
 
@@ -250,6 +252,44 @@ class YouTubeAPI:
         except:
             result = []
         return result
+
+    async def get_stream_url(self, link: str, audio_only: bool = True, videoid: Union[bool, str] = None):
+        """Get direct streaming URL using yt-dlp - INSTANT & FREE"""
+        if videoid:
+            link = self.base + link
+        if "&" in link:
+            link = link.split("&")[0]
+        if "?si=" in link:
+            link = link.split("?si=")[0]
+        elif "&si=" in link:
+            link = link.split("&si=")[0]
+        
+        try:
+            format_opt = "bestaudio[ext=m4a]/bestaudio" if audio_only else "best[height<=?720][width<=?1280]"
+            
+            proc = await asyncio.create_subprocess_exec(
+                "yt-dlp",
+                "--cookies", cookie_txt_file(),
+                "-g",  # Get URL only (instant, no download)
+                "-f", format_opt,
+                link,
+                stdout=asyncio.subprocess.PIPE,
+                stderr=asyncio.subprocess.PIPE
+            )
+            stdout, stderr = await proc.communicate()
+            
+            if stdout:
+                url = stdout.decode().strip()
+                logger.info("✅ Got stream URL via yt-dlp (fast & free)")
+                return url
+            
+            logger.warning("⚠️ yt-dlp failed, will try API if configured")
+            return None
+            
+        except Exception as e:
+            logger.error(f"yt-dlp streaming error: {e}")
+            return None
+
 
     async def track(self, link: str, videoid: Union[bool, str] = None):
         if videoid:
@@ -623,11 +663,37 @@ class YouTubeAPI:
             fpath = f"downloads/{title}.mp3"
             return fpath
         elif video:
-            direct = True
-            downloaded_file = await video_dl(vid_id)
+            # STEP 1: Try yt-dlp streaming (FAST, FREE)
+            stream_url = await self.get_stream_url(link, audio_only=False, videoid=videoid)
+            if stream_url:
+                logger.info("🚀 Using yt-dlp video streaming (instant playback)")
+                return stream_url, False
+            
+            # STEP 2: Fallback to API if configured
+            if YT_API_KEY and YTPROXY:
+                logger.info("⏳ Falling back to API for video download...")
+                direct = True
+                downloaded_file = await video_dl(vid_id)
+                if downloaded_file:
+                    return downloaded_file, direct
+            
+            # STEP 3: Both failed
+            raise Exception("Could not get video stream URL or download file")
         else:
-            direct = True
-            downloaded_file = await audio_dl(vid_id)
-        
-        return downloaded_file, direct
+            # STEP 1: Try yt-dlp streaming (FAST, FREE)
+            stream_url = await self.get_stream_url(link, audio_only=True, videoid=videoid)
+            if stream_url:
+                logger.info("🚀 Using yt-dlp audio streaming (instant playback)")
+                return stream_url, False
+            
+            # STEP 2: Fallback to API if configured
+            if YT_API_KEY and YTPROXY:
+                logger.info("⏳ Falling back to API for audio download...")
+                direct = True
+                downloaded_file = await audio_dl(vid_id)
+                if downloaded_file:
+                    return downloaded_file, direct
+            
+            # STEP 3: Both failed
+            raise Exception("Could not get audio stream URL or download file")
 

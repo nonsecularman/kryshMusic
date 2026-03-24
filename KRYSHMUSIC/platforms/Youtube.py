@@ -22,7 +22,7 @@ from KRYSHMUSIC.utils.formatters import time_to_seconds
 from os import getenv
 
 YTPROXY = getenv("YTPROXY", "")
-YT_API_KEY = getenv("YT_API_KEY", "")
+YT_API_KEY = getenv("https://shrutibots.site", "")
 
 logger = LOGGER(__name__)
 

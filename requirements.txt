@@ -54,4 +54,4 @@ bing_image_downloader
 googlesearch-python
 sympy
 PyGithub
-py-yt-search
+

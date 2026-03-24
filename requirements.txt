@@ -26,7 +26,6 @@ search_engine_parser
 py-tgcalls==0.9.7
 pykeyboard
 pyshorteners
-#pyrogram==2.0.106
 pyrofork
 python-dotenv
 pyyaml==6.0.1
@@ -49,10 +48,9 @@ openai==0.28.0
 pickledb
 python-telegram-bot
 pycryptodome
-opencv-python
+opencv-python-headless
 bing-image-urls
 bing_image_downloader
 googlesearch-python
 sympy
 PyGithub
-

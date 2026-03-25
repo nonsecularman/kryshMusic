@@ -7,7 +7,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from KRYSHMUSIC import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from KRYSHMUSIC.core.call import Nand
+from KRYSHMUSIC.core.call import KRYSH
 from KRYSHMUSIC.utils import seconds_to_min, time_to_seconds
 from KRYSHMUSIC.utils.channelplay import get_channeplayCB
 from KRYSHMUSIC.utils.decorators.language import languageCB
